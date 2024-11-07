@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="until now" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="121940" name-counter="1" event-counter="1999808" vca-counter="1">
+<Session version="6000" name="until now" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="133771" name-counter="1" event-counter="2016801" vca-counter="1">
   <ProgramVersion created-with="Ardour 6.9.0~ds0-1build1" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -246,6 +246,9 @@
     <Source name="Tom Vocals-79.wav" take-id="2024-11-05 00.04.00" type="audio" flags="" id="110172" timestamp="1730786640" natural-position="3005100" captured-for="Tom Vocals" channel="0" origin="" gain="1"/>
     <Source name="Tom Vocals-80.wav" take-id="2024-11-05 00.04.07" type="audio" flags="" id="110209" timestamp="1730786647" natural-position="3005100" captured-for="Tom Vocals" channel="0" origin="" gain="1"/>
     <Source name="Tom Vocals-81.wav" take-id="2024-11-05 00.04.37" type="audio" flags="" id="110247" timestamp="1730786677" natural-position="3005100" captured-for="Tom Vocals" channel="0" origin="" gain="1"/>
+    <Source name="sax-1.wav" take-id="2024-11-06 23.05.22" type="audio" flags="" id="133642" timestamp="1730955922" natural-position="75600" captured-for="sax" channel="0" origin="" gain="1"/>
+    <Source name="sax-2.wav" take-id="2024-11-06 23.10.16" type="audio" flags="" id="133690" timestamp="1730956216" natural-position="75600" captured-for="sax" channel="0" origin="" gain="1"/>
+    <Source name="sax-3.wav" take-id="2024-11-06 23.15.04" type="audio" flags="" id="133732" timestamp="1730956504" natural-position="75600" captured-for="sax" channel="0" origin="" gain="1"/>
   </Sources>
   <Regions>
     <Region name="Black Pearl Drumkit-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1211392" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" tags="" contents="0" start-beats="0" length-beats="48.071111111111108" id="256" type="midi" first-edit="nothing" source-0="222" master-source-0="222"/>
@@ -2071,6 +2074,9 @@
     <Region name="Tom Vocals-80" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="151536" position="3005100" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="110219" type="audio" first-edit="nothing" source-0="110209" master-source-0="110209" channels="1"/>
     <Region name="Tom Vocals-80.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="151536" position="3005100" beat="119.25" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="22" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="110227" type="audio" first-edit="nothing" source-0="110209" master-source-0="110209" channels="1"/>
     <Region name="Tom Vocals-81" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="166896" position="3005100" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="110257" type="audio" first-edit="nothing" source-0="110247" master-source-0="110247" channels="1"/>
+    <Region name="sax-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6560240" position="75600" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="133658" type="audio" first-edit="nothing" source-0="133642" master-source-0="133642" channels="1"/>
+    <Region name="sax-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6575600" position="75600" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="133700" type="audio" first-edit="nothing" source-0="133690" master-source-0="133690" channels="1"/>
+    <Region name="sax-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6565360" position="75600" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="133742" type="audio" first-edit="nothing" source-0="133732" master-source-0="133732" channels="1"/>
   </Regions>
   <CompoundAssociations>
     <CompoundAssociation copy="5980" original="2781"/>
@@ -2083,8 +2089,7 @@
     <CompoundAssociation copy="8315" original="6808"/>
   </CompoundAssociations>
   <Selection>
-    <StripableAutomationControl stripable="541" control="0" order="1"/>
-    <StripableAutomationControl stripable="11587" control="0" order="0"/>
+    <StripableAutomationControl stripable="133595" control="0" order="1"/>
   </Selection>
   <Locations>
     <Location id="262" name="session" start="75600" end="6615000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1709613474"/>
@@ -2120,6 +2125,7 @@
           <Connection other="keys vocals/audio_out 1"/>
           <Connection other="rat pedal Bus/audio_out 1"/>
           <Connection other="rob guitar plucks/audio_out 1"/>
+          <Connection other="sax/audio_out 1"/>
         </Port>
         <Port type="audio" name="Master/audio_in 2">
           <Connection other=" Vibes Bus/audio_out 2"/>
@@ -2140,6 +2146,7 @@
           <Connection other="keys vocals/audio_out 2"/>
           <Connection other="rat pedal Bus/audio_out 2"/>
           <Connection other="rob guitar plucks/audio_out 2"/>
+          <Connection other="sax/audio_out 2"/>
         </Port>
       </IO>
       <IO name="Master" id="93" direction="Output" default-type="audio">
@@ -2549,8 +2556,8 @@
         </Port>
         <Port type="midi" name="Guitar midi/midi_out 1"/>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="551" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="551" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="553" flags="Toggle" value="0" phase-invert=""/>
       <Automation>
         <AutomationList automation-id="solo" id="548" interpolation-style="Discrete" state="Off"/>
@@ -2785,7 +2792,7 @@ Also kinda like Reed 3</Comment>
       <Slavable/>
     </Route>
     <Route version="6000" id="1365" name="bass midi" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" midi-playlist="1410" saved-meter-point="MeterPostFader" alignment-choice="Automatic" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1" restore-pgm="1">
-      <PresentationInfo order="15" flags="MidiTrack,OrderSet" color="3437589247"/>
+      <PresentationInfo order="16" flags="MidiTrack,OrderSet" color="3437589247"/>
       <Controllable name="solo" id="1373" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="1379" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="1381" flags="Toggle" value="0" solo-safe="0"/>
@@ -3676,7 +3683,7 @@ Also kinda like Reed 3</Comment>
       <Controllable name="rec-enable" id="2674" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="5104" name="Bass Xtra Tracks" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="4992" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="14" flags="AudioTrack,OrderSet" color="3597854207"/>
+      <PresentationInfo order="15" flags="AudioTrack,OrderSet" color="3597854207"/>
       <Controllable name="solo" id="5067" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="5886" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="5887" flags="Toggle" value="0" solo-safe="0"/>
@@ -4347,7 +4354,7 @@ Also kinda like Reed 3</Comment>
       <Controllable name="rec-enable" id="5902" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="6065" name="Bass 2 - fender" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="6110" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="13" flags="AudioTrack,OrderSet" color="3849614079"/>
+      <PresentationInfo order="14" flags="AudioTrack,OrderSet" color="3849614079"/>
       <Controllable name="solo" id="6073" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="6079" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="6081" flags="Toggle" value="0" solo-safe="0"/>
@@ -5042,8 +5049,8 @@ Also kinda like Reed 3</Comment>
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="11597" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="11597" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="11599" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="11594" interpolation-style="Discrete" state="Off"/>
@@ -5248,7 +5255,7 @@ Also kinda like Reed 3</Comment>
       <Controllable name="rec-enable" id="11627" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="12525" name="rob guitar plucks" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="12660" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="12" flags="AudioTrack,OrderSet" color="3799312639"/>
+      <PresentationInfo order="13" flags="AudioTrack,OrderSet" color="3799312639"/>
       <Controllable name="solo" id="12533" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="12539" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="12541" flags="Toggle" value="0" solo-safe="0"/>
@@ -5439,7 +5446,7 @@ There are several playlist takes</Comment>
       <Controllable name="rec-enable" id="12565" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="16875" name="keys vocals" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="16920" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="11" flags="AudioTrack,OrderSet" color="3853742847"/>
+      <PresentationInfo order="12" flags="AudioTrack,OrderSet" color="3853742847"/>
       <Controllable name="solo" id="16883" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="16889" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="16891" flags="Toggle" value="0" solo-safe="0"/>
@@ -5521,8 +5528,8 @@ There are several playlist takes</Comment>
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="26090" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="26090" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="26092" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="26087" interpolation-style="Discrete" state="Off"/>
@@ -5573,7 +5580,7 @@ There are several playlist takes</Comment>
       <Controllable name="rec-enable" id="26120" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="27103" name="Tom Vocals" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="27148" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="10" flags="AudioTrack,OrderSet" color="2279961343"/>
+      <PresentationInfo order="11" flags="AudioTrack,OrderSet" color="2279961343"/>
       <Controllable name="solo" id="27111" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="27117" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="27119" flags="Toggle" value="0" solo-safe="0"/>
@@ -6622,7 +6629,7 @@ There are several playlist takes</Comment>
       <Slavable/>
     </Route>
     <Route version="6000" id="88545" name="Audio 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="89124" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="16" flags="AudioTrack,OrderSet" color="3852038911"/>
+      <PresentationInfo order="17" flags="AudioTrack,OrderSet" color="3852038911"/>
       <Controllable name="solo" id="88553" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="88559" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="88561" flags="Toggle" value="0" solo-safe="0"/>
@@ -6811,7 +6818,7 @@ There are several playlist takes</Comment>
       <Controllable name="rec-enable" id="88585" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="88596" name="Audio 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="88641" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="17" flags="AudioTrack,OrderSet" color="3849487871"/>
+      <PresentationInfo order="18" flags="AudioTrack,OrderSet" color="3849487871"/>
       <Controllable name="solo" id="88604" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="88610" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="88612" flags="Toggle" value="0" solo-safe="0"/>
@@ -6878,7 +6885,7 @@ There are several playlist takes</Comment>
       <Controllable name="rec-enable" id="88636" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="88952" name="key bass drum" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="89223" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="18" flags="AudioTrack,OrderSet" color="2109537279"/>
+      <PresentationInfo order="19" flags="AudioTrack,OrderSet" color="2109537279"/>
       <Controllable name="solo" id="88960" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="88966" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="88968" flags="Toggle" value="0" solo-safe="0"/>
@@ -6943,6 +6950,75 @@ There are several playlist takes</Comment>
       <Controllable name="monitor" id="88996" flags="RealTime" value="0" monitoring=""/>
       <Controllable name="rec-safe" id="88994" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="88992" flags="Toggle,RealTime" value="0"/>
+    </Route>
+    <Route version="6000" id="133595" name="sax" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="133730" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+      <PresentationInfo order="10" flags="AudioTrack,OrderSet" color="2246406911"/>
+      <Controllable name="solo" id="133603" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="133609" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="133611" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="sax" id="133623" direction="Input" default-type="audio">
+        <Port type="audio" name="sax/audio_in 1">
+          <Connection other="system:capture_17"/>
+        </Port>
+      </IO>
+      <IO name="sax" id="133624" direction="Output" default-type="audio">
+        <Port type="audio" name="sax/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="sax/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="133605" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="133607" flags="Toggle" value="0" phase-invert="0"/>
+      <Automation>
+        <AutomationList automation-id="solo" id="133602" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="133608" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="133610" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="133604" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="133634" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="133636" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="133606" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="133638" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="133614" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="133618" flags="" value="0"/>
+        <Controllable name="pan-elevation" id="133616" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="133620" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="133622" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="133613" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="133615" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="133617" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="133619" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="133621" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="133629" name="meter-sax" active="1" user-latency="0" use-user-latency="0" type="meter"/>
+      <Processor id="133633" name="recorder:sax" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
+      <Processor id="133632" name="player:sax" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
+      <Processor id="133626" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
+      <Processor id="133628" name="Amp" active="1" user-latency="0" use-user-latency="0" type="trim">
+        <Automation>
+          <AutomationList automation-id="trim" id="133600" interpolation-style="Logarithmic" state="Off"/>
+        </Automation>
+        <Controllable name="trimcontrol" id="133601" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="133625" name="Amp" active="1" user-latency="0" use-user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="133598" interpolation-style="Exponential" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="133599" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="133630" name="sax" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="sax" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="133639" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="133637" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="133635" flags="Toggle,RealTime" value="1"/>
     </Route>
   </Routes>
   <Playlists>
@@ -14107,6 +14183,39 @@ There are several playlist takes</Comment>
         </InverseFadeOut>
       </Region>
     </Playlist>
+    <Playlist id="133730" name="Take.7" type="audio" orig-track-id="133595" pgroup-id="2024-11-06 23.10.44" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="sax-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6565360" position="75600" beat="3" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="133750" type="audio" first-edit="nothing" source-0="133732" master-source-0="133732" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="133751" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="133752" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="133753" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="133754" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+    </Playlist>
   </Playlists>
   <UnusedPlaylists>
     <Playlist id="2857" name="Bass 1.1" type="audio" orig-track-id="2943" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="0">
@@ -15597,6 +15706,72 @@ There are several playlist takes</Comment>
         </InverseFadeOut>
       </Region>
     </Playlist>
+    <Playlist id="133640" name="sax" type="audio" orig-track-id="133595" pgroup-id="2024-11-06 23.05.22" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="sax-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6560240" position="75600" beat="3" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="133666" type="audio" first-edit="nothing" source-0="133642" master-source-0="133642" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="133667" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="133668" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="133669" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="133670" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+    </Playlist>
+    <Playlist id="133688" name="Take.6" type="audio" orig-track-id="133595" pgroup-id="2024-11-06 23.07.01" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="sax-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6575600" position="75600" beat="3" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="133708" type="audio" first-edit="nothing" source-0="133690" master-source-0="133690" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="133709" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="133710" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="133711" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="133712" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+    </Playlist>
   </UnusedPlaylists>
   <RouteGroups>
     <RouteGroup id="89122" rgba="3737117951" used-to-share-gain="0" name="1" hidden="0" active="1" relative="1" gain="1" mute="1" solo="1" recenable="1" select="1" route-active="1" color="1" monitoring="1" group-master-number="-1" routes="541 11587 "/>
@@ -15696,7 +15871,7 @@ There are several playlist takes</Comment>
       <Window name="session-options-editor" visible="0" x-off="0" y-off="335" x-size="750" y-size="368"/>
       <Window name="speaker-config" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="about" visible="0" x-off="0" y-off="0" x-size="424" y-size="610"/>
-      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="652" y-size="503"/>
+      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="671" y-size="503"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="57" y-off="57" x-size="620" y-size="370"/>
       <Window name="audio-midi-setup" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -15789,6 +15964,7 @@ There are several playlist takes</Comment>
       <Window name="PM-1365-1620" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-88545-88872" visible="0" x-off="1151" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
       <Window name="PM-88545-88872" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-133595" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 64" height="66" visible="1"/>
         <Object id="automation 68" height="66" visible="0"/>
@@ -17090,6 +17266,16 @@ There are several playlist takes</Comment>
         <Object id="strip 88952" visible="1">
           <Object id="processor 88982">
             <Object id="control 88956" visible="0"/>
+          </Object>
+        </Object>
+        <Object id="rtav 133595" height="66" visible="1"/>
+        <Object id="automation 133599" height="66" visible="0"/>
+        <Object id="automation 133601" height="66" visible="0"/>
+        <Object id="automation 133595 12/0/0" height="66" visible="0"/>
+        <Object id="automation 133614" height="66" visible="0"/>
+        <Object id="strip 133595" visible="1">
+          <Object id="processor 133625">
+            <Object id="control 133599" visible="0"/>
           </Object>
         </Object>
       </GUIObjectState>
