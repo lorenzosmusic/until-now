@@ -17,4 +17,3 @@
 		<http://gareus.org/oss/lv2/fil4#uiscale> "1.0"^^xsd:float ;
 		<http://gareus.org/oss/lv2/fil4#kbtuning> "440.0"^^xsd:float
 	] .
-

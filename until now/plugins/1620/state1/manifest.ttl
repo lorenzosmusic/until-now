@@ -10,4 +10,3 @@
 	lv2:appliesTo <http://gareus.org/oss/lv2/fil4#mono> ;
 	a pset:Preset ;
 	rdfs:seeAlso <state.ttl> .
-
