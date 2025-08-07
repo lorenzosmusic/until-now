@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="7003" name="until now" sample-rate="44100" session-range-is-free="0" id-counter="747047" rg-counter="1482" name-counter="1" event-counter="3470119" vca-counter="1">
+<Session version="7003" name="until now" sample-rate="44100" session-range-is-free="0" id-counter="780296" rg-counter="1488" name-counter="1" event-counter="3476976" vca-counter="1">
   <ProgramVersion created-with="Ardour 6.9.0~ds0-1build1" modified-with="Ardour 8.4.0~ds1-2ubuntu8"/>
   <MIDIPorts>
     <Port name="Cue Control in" type="midi" direction="Input"/>
@@ -10,9 +10,8 @@
     <Port name="Scene in" type="midi" direction="Input"/>
     <Port name="Scene out" type="midi" direction="Output"/>
     <Port name="x-virtual-keyboard" type="midi" direction="Output">
-      <Connection other="Black Pearl Drumkit 1/midi_in 1"/>
-      <Connection other="Black Pearl Drumkit/midi_in 1"/>
-      <Connection other="Guitar midi/midi_in 1"/>
+      <Connection other="bass vibes Yoshimi/midi_in 1"/>
+      <Connection other="bass vibes Yoshimi/midi_in 1"/>
     </Port>
   </MIDIPorts>
   <Config>
@@ -3046,13 +3045,13 @@ a409600 1
     <Region name="Bass Cliff New-10" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a0" length="a3009638400@a71608320000" sync-position="a0" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="0" tags="" contents="0" rgroup="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="745804" type="audio" first-edit="nothing" source-0="745794" master-source-0="745794" channels="1"/>
     <Region name="Bass Cliff New-10.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a0" length="a3009638400@a71608320000" sync-position="a0" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="1" tags="" contents="0" rgroup="23376" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="745812" type="audio" first-edit="nothing" source-0="745794" master-source-0="745794" channels="1"/>
     <Region name="Bass Cliff New-11" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a0" length="a7230156800@a71608320000" sync-position="a0" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="0" tags="" contents="0" rgroup="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="745842" type="audio" first-edit="nothing" source-0="745832" master-source-0="745832" channels="1"/>
-    <Region name="Bass Cliff New-11.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a1290240000" length="a5939916800@a72898560000" sync-position="a0" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="1" tags="" contents="0" rgroup="23392" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="745850" type="audio" first-edit="nothing" source-0="745832" master-source-0="745832" channels="1"/>
+    <Region name="Bass Cliff New-11.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a1290240000" length="a5939916800@a72898560000" sync-position="a1290240000" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="1" tags="" contents="0" rgroup="23392" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="745850" type="audio" first-edit="nothing" source-0="745832" master-source-0="745832" channels="1"/>
     <Region name="Bass Cliff New-12" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a0" length="a2783539200@a71608320000" sync-position="a0" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="0" tags="" contents="0" rgroup="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="745908" type="audio" first-edit="nothing" source-0="745870" master-source-0="745870" channels="1"/>
     <Region name="Bass Cliff New-12.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a0" length="a2783539200@a71608320000" sync-position="a0" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="1" tags="" contents="0" rgroup="23456" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="745916" type="audio" first-edit="nothing" source-0="745870" master-source-0="745870" channels="1"/>
     <Region name="Bass Cliff New-13" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a0" length="a2881843200@a71608320000" sync-position="a0" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="0" tags="" contents="0" rgroup="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="745946" type="audio" first-edit="nothing" source-0="745936" master-source-0="745936" channels="1"/>
     <Region name="Bass Cliff New-13.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a0" length="a2881843200@a71608320000" sync-position="a0" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="1" tags="" contents="0" rgroup="23472" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="745954" type="audio" first-edit="nothing" source-0="745936" master-source-0="745936" channels="1"/>
     <Region name="Bass Cliff New-14" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a0" length="a7046656000@a71608320000" sync-position="a0" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="0" tags="" contents="0" rgroup="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="745984" type="audio" first-edit="nothing" source-0="745974" master-source-0="745974" channels="1"/>
-    <Region name="Bass Cliff New-14.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a1290240000" length="a5756416000@a72898560000" sync-position="a0" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="1" tags="" contents="0" rgroup="23488" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="745992" type="audio" first-edit="nothing" source-0="745974" master-source-0="745974" channels="1"/>
+    <Region name="Bass Cliff New-14.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a1290240000" length="a5756416000@a72898560000" sync-position="a1290240000" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="1" tags="" contents="0" rgroup="23488" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="745992" type="audio" first-edit="nothing" source-0="745974" master-source-0="745974" channels="1"/>
     <Region name="Bass Cliff New-15" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a0" length="a6968012800@a71608320000" sync-position="a0" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="0" tags="" contents="0" rgroup="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="746037" type="audio" first-edit="nothing" source-0="746012" master-source-0="746012" channels="1"/>
   </Regions>
   <CompoundAssociations>
@@ -3066,7 +3065,7 @@ a409600 1
     <CompoundAssociation copy="8315" original="6808"/>
   </CompoundAssociations>
   <Selection>
-    <StripableAutomationControl stripable="712173" control="0" order="1"/>
+    <StripableAutomationControl stripable="75885" control="0" order="2"/>
   </Selection>
   <Locations>
     <Location id="262" name="session" start="b5760" end="b533760" flags="IsSessionRange" locked="0" timestamp="1709613474" cue="0"/>
@@ -3289,9 +3288,7 @@ a409600 1
       <Controllable name="solo-iso" id="185" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="187" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="Black Pearl Drumkit" id="199" direction="Input" default-type="midi">
-        <Port name="Black Pearl Drumkit/midi_in 1" type="midi" direction="Input">
-          <Connection other="x-virtual-keyboard"/>
-        </Port>
+        <Port name="Black Pearl Drumkit/midi_in 1" type="midi" direction="Input"/>
       </IO>
       <IO name="Black Pearl Drumkit" id="200" direction="Output" default-type="midi">
         <Port name="Black Pearl Drumkit/audio_out 1" type="audio" direction="Output">
@@ -3589,9 +3586,7 @@ a409600 1
       <Controllable name="solo-iso" id="555" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="557" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="Guitar midi" id="569" direction="Input" default-type="midi">
-        <Port name="Guitar midi/midi_in 1" type="midi" direction="Input">
-          <Connection other="x-virtual-keyboard"/>
-        </Port>
+        <Port name="Guitar midi/midi_in 1" type="midi" direction="Input"/>
       </IO>
       <IO name="Guitar midi" id="570" direction="Output" default-type="midi">
         <Port name="Guitar midi/audio_out 1" type="audio" direction="Output">
@@ -9826,7 +9821,9 @@ The version used so far for the new version of the song are in the playlist "Exp
       <Controllable name="solo-iso" id="245561" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="245563" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="bass vibes Yoshimi" id="245575" direction="Input" default-type="midi">
-        <Port name="bass vibes Yoshimi/midi_in 1" type="midi" direction="Input"/>
+        <Port name="bass vibes Yoshimi/midi_in 1" type="midi" direction="Input">
+          <Connection other="x-virtual-keyboard"/>
+        </Port>
       </IO>
       <IO name="bass vibes Yoshimi" id="245576" direction="Output" default-type="midi">
         <Port name="bass vibes Yoshimi/audio_out 1" type="audio" direction="Output">
@@ -10717,7 +10714,6 @@ The version used so far for the new version of the song are in the playlist "Exp
       <Controllable name="solo-safe" id="484318" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="Black Pearl Drumkit 1" id="484330" direction="Input" default-type="midi">
         <Port name="Black Pearl Drumkit 1/midi_in 1" type="midi" direction="Input">
-          <Connection other="x-virtual-keyboard"/>
           <ExtConnection for="JACK"/>
         </Port>
       </IO>
@@ -18950,7 +18946,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="745709" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001390896691
 a2580480000 1.0000002545111761
-a2580480000 1.0000002545111761
 </events>
           </AutomationList>
         </Envelope>
@@ -27078,7 +27073,6 @@ a409600 1
             <events>a0 1
 a80640000 1
 a1048320000 1.0000001857138023
-a1048320000 1.0000001857138023
 </events>
           </AutomationList>
         </Envelope>
@@ -27112,14 +27106,7 @@ a409600 1
         </InverseFadeOut>
       </Region>
       <Region name="rob guitar plucks-3.74" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a6128640000" length="a60480000@a78956640000" sync-position="a6128640000" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="43" tags="" contents="0" rgroup="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="746187" type="audio" first-edit="nothing" source-0="12662" master-source-0="12662" channels="1">
-        <Envelope>
-          <AutomationList automation-id="envelope" id="746193" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
-            <events>a0 1
-a60480000 1
-a60480000 1
-</events>
-          </AutomationList>
-        </Envelope>
+        <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="746188" interpolation-style="Curved" time-domain="AudioTime" state="Off">
             <events>a0 1.0000000116860974e-07
@@ -27154,7 +27141,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="746203" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1
 a141113600 1.0000001333324546
-a141120000 1.000000233332478
 a141120000 1.000000233332478
 </events>
           </AutomationList>
@@ -27194,7 +27180,6 @@ a409600 1
             <events>a0 1.0000002000000001
 a60480000 1.0000002000000001
 a161286400 1.0000001000000001
-a161286400 1.0000001000000001
 </events>
           </AutomationList>
         </Envelope>
@@ -27232,7 +27217,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="746163" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1
 a10080000 1
-a1300326400 1.0000001000000001
 a1300326400 1.0000001000000001
 </events>
           </AutomationList>
@@ -48785,7 +48769,7 @@ a409600 1
       </Region>
     </Playlist>
     <Playlist id="712476" name="Take.hitsmore" type="audio" orig-track-id="712173" pgroup-id="2025-08-06 22.17.52" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="Bass Cliff New-7.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a2580480000" length="a23864832000@a49512960000" sync-position="a0" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="0" tags="" contents="0" rgroup="23088" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="712581" type="audio" first-edit="nothing" source-0="712563" master-source-0="712563" channels="1">
+      <Region name="Bass Cliff New-7.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a2580480000" length="a23864832000@a49512960000" sync-position="a2580480000" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="0" tags="" contents="0" rgroup="23088" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="712581" type="audio" first-edit="nothing" source-0="712563" master-source-0="712563" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="733180" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001000000001
@@ -48946,7 +48930,7 @@ a409600 1
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Bass Cliff New-15.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a1290240000" length="a5677772800@a72898560000" sync-position="a0" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="1" tags="" contents="0" rgroup="23520" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="746045" type="audio" first-edit="nothing" source-0="746012" master-source-0="746012" channels="1">
+      <Region name="Bass Cliff New-15.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a1290240000" length="a5677772800@a72898560000" sync-position="a1290240000" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="1" tags="" contents="0" rgroup="23520" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="746045" type="audio" first-edit="nothing" source-0="746012" master-source-0="746012" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="746050" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001000000001
@@ -60426,7 +60410,7 @@ a409600 1
       <ExportFormat id="13765a92-0ab8-464e-ac1b-a5320572bf7d"/>
       <ExportFilename>
         <Folder relative="1" path="export"/>
-        <Field name="label" enabled="1" value="re-write-pass-3"/>
+        <Field name="label" enabled="1" value="cliff-bass-redo"/>
         <Field name="session" enabled="1"/>
         <Field name="snapshot" enabled="0"/>
         <Field name="timespan" enabled="1"/>
@@ -60501,6 +60485,8 @@ a409600 1
       <Window name="RPM-245305" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-64-1594" visible="0" x-off="168" y-off="146" x-size="818" y-size="386" custom-ui="1"/>
       <Window name="PM-64-1594" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-712173-712321" visible="0" x-off="1151" y-off="0" x-size="769" y-size="459" custom-ui="1"/>
+      <Window name="PM-712173-712321" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-538406-538496" visible="0" x-off="551" y-off="0" x-size="495" y-size="250" custom-ui="1"/>
       <Window name="PM-538406-538496" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-1231-1315" visible="0" x-off="386" y-off="139" x-size="382" y-size="400" custom-ui="1"/>
@@ -60523,8 +60509,6 @@ a409600 1
       <Window name="P-26080-304561" visible="0" x-off="1088" y-off="399" x-size="818" y-size="386" custom-ui="1"/>
       <Window name="PM-26080-304551" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-26080-304561" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-712173-712321" visible="0" x-off="1151" y-off="0" x-size="769" y-size="459" custom-ui="1"/>
-      <Window name="PM-712173-712321" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-2634-8298" visible="0" x-off="0" y-off="0" x-size="1144" y-size="591" custom-ui="1"/>
       <Window name="P-2634-3693" visible="0" x-off="786" y-off="223" x-size="1037" y-size="717" custom-ui="1"/>
       <Window name="PM-2634-8298" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
