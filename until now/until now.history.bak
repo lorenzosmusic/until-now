@@ -193,20 +193,20 @@
     <StatefulDiffCommand obj-id="216" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
-          <Remove id="1131480"/>
-          <Remove id="1131477"/>
-          <Remove id="1131474"/>
-          <Remove id="1131471"/>
-          <Remove id="1131468"/>
-          <Remove id="1131465"/>
-          <Remove id="1131462"/>
-          <Remove id="1131459"/>
-          <Remove id="1131456"/>
-          <Remove id="1131453"/>
-          <Remove id="1131450"/>
-          <Remove id="1131447"/>
-          <Remove id="1131444"/>
           <Remove id="1131441"/>
+          <Remove id="1131444"/>
+          <Remove id="1131447"/>
+          <Remove id="1131450"/>
+          <Remove id="1131453"/>
+          <Remove id="1131456"/>
+          <Remove id="1131459"/>
+          <Remove id="1131462"/>
+          <Remove id="1131465"/>
+          <Remove id="1131468"/>
+          <Remove id="1131471"/>
+          <Remove id="1131474"/>
+          <Remove id="1131477"/>
+          <Remove id="1131480"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
@@ -240,21 +240,21 @@
     <StatefulDiffCommand obj-id="216" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
-          <Add id="1212075"/>
+          <Add id="1212108"/>
+          <Add id="1212102"/>
+          <Add id="1212105"/>
+          <Add id="1212117"/>
           <Add id="1212093"/>
           <Add id="1212099"/>
-          <Add id="1212078"/>
           <Add id="1212096"/>
-          <Add id="1212084"/>
-          <Add id="1212108"/>
-          <Add id="1212090"/>
-          <Add id="1212105"/>
-          <Add id="1212081"/>
-          <Add id="1212111"/>
-          <Add id="1212117"/>
           <Add id="1212114"/>
+          <Add id="1212090"/>
           <Add id="1212087"/>
-          <Add id="1212102"/>
+          <Add id="1212084"/>
+          <Add id="1212081"/>
+          <Add id="1212075"/>
+          <Add id="1212111"/>
+          <Add id="1212078"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
@@ -337,22 +337,6 @@
       <Changes>
         <start from="a0" to="a1774080000"/>
         <length from="a7964160000@a70963200000" to="a6190080000@a72737280000"/>
-        <Envelope>
-          <from>
-            <AutomationList automation-id="envelope" id="1212245" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
-              <events>a0 1
-a7964160000 1
-</events>
-            </AutomationList>
-          </from>
-          <to>
-            <AutomationList automation-id="envelope" id="1212244" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
-              <events>a0 1.0000001000000001
-a6190080000 1
-</events>
-            </AutomationList>
-          </to>
-        </Envelope>
       </Changes>
     </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
@@ -376,22 +360,6 @@ a6190080000 1
     <StatefulDiffCommand obj-id="1212215" type-name="ARDOUR::AudioRegion">
       <Changes>
         <length from="a6190080000@a72737280000" to="a5644800000@a72737280000"/>
-        <Envelope>
-          <from>
-            <AutomationList automation-id="envelope" id="1212255" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
-              <events>a0 1.0000001000000001
-a6190080000 1
-</events>
-            </AutomationList>
-          </from>
-          <to>
-            <AutomationList automation-id="envelope" id="1212254" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
-              <events>a0 1.0000001000000001
-a5644800000 1.0000001088089356
-</events>
-            </AutomationList>
-          </to>
-        </Envelope>
       </Changes>
     </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
@@ -692,58 +660,58 @@ a5644800000 1.0000001088089356
     <StatefulDiffCommand obj-id="1212891" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
-          <Remove id="1213669"/>
-          <Remove id="1213282"/>
-          <Remove id="1213651"/>
-          <Remove id="1213597"/>
-          <Remove id="1213273"/>
           <Remove id="1213237"/>
-          <Remove id="1213687"/>
-          <Remove id="1213588"/>
-          <Remove id="1213471"/>
+          <Remove id="1213246"/>
+          <Remove id="1213255"/>
+          <Remove id="1213264"/>
+          <Remove id="1213273"/>
+          <Remove id="1213282"/>
+          <Remove id="1213291"/>
           <Remove id="1213300"/>
+          <Remove id="1213309"/>
+          <Remove id="1213318"/>
+          <Remove id="1213327"/>
+          <Remove id="1213336"/>
+          <Remove id="1213345"/>
           <Remove id="1213354"/>
+          <Remove id="1213363"/>
+          <Remove id="1213372"/>
+          <Remove id="1213381"/>
+          <Remove id="1213390"/>
+          <Remove id="1213399"/>
+          <Remove id="1213408"/>
+          <Remove id="1213417"/>
+          <Remove id="1213426"/>
+          <Remove id="1213435"/>
+          <Remove id="1213444"/>
+          <Remove id="1213453"/>
+          <Remove id="1213462"/>
+          <Remove id="1213471"/>
+          <Remove id="1213480"/>
+          <Remove id="1213489"/>
+          <Remove id="1213498"/>
+          <Remove id="1213507"/>
+          <Remove id="1213516"/>
           <Remove id="1213525"/>
           <Remove id="1213534"/>
-          <Remove id="1213444"/>
-          <Remove id="1213435"/>
-          <Remove id="1213579"/>
-          <Remove id="1213426"/>
-          <Remove id="1213264"/>
-          <Remove id="1213408"/>
-          <Remove id="1213381"/>
-          <Remove id="1213462"/>
-          <Remove id="1213516"/>
-          <Remove id="1213489"/>
-          <Remove id="1213345"/>
-          <Remove id="1213255"/>
-          <Remove id="1213696"/>
-          <Remove id="1213246"/>
-          <Remove id="1213678"/>
-          <Remove id="1213327"/>
-          <Remove id="1213318"/>
-          <Remove id="1213561"/>
-          <Remove id="1213291"/>
-          <Remove id="1213363"/>
-          <Remove id="1213642"/>
           <Remove id="1213543"/>
-          <Remove id="1213453"/>
-          <Remove id="1213606"/>
-          <Remove id="1213399"/>
-          <Remove id="1213624"/>
           <Remove id="1213552"/>
-          <Remove id="1213660"/>
+          <Remove id="1213561"/>
           <Remove id="1213570"/>
-          <Remove id="1213480"/>
-          <Remove id="1213498"/>
-          <Remove id="1213633"/>
+          <Remove id="1213579"/>
+          <Remove id="1213588"/>
+          <Remove id="1213597"/>
+          <Remove id="1213606"/>
           <Remove id="1213615"/>
-          <Remove id="1213417"/>
-          <Remove id="1213309"/>
-          <Remove id="1213507"/>
-          <Remove id="1213372"/>
-          <Remove id="1213390"/>
-          <Remove id="1213336"/>
+          <Remove id="1213624"/>
+          <Remove id="1213633"/>
+          <Remove id="1213642"/>
+          <Remove id="1213651"/>
+          <Remove id="1213660"/>
+          <Remove id="1213669"/>
+          <Remove id="1213678"/>
+          <Remove id="1213687"/>
+          <Remove id="1213696"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
@@ -885,22 +853,6 @@ a5644800000 1.0000001088089356
       <Changes>
         <start from="a0" to="a967680000"/>
         <length from="a7105638400@a71608320000" to="a6137958400@a72576000000"/>
-        <Envelope>
-          <from>
-            <AutomationList automation-id="envelope" id="1215083" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
-              <events>a0 1
-a7105638400 1
-</events>
-            </AutomationList>
-          </from>
-          <to>
-            <AutomationList automation-id="envelope" id="1215082" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
-              <events>a0 1.0000001000000001
-a6137958400 1
-</events>
-            </AutomationList>
-          </to>
-        </Envelope>
       </Changes>
     </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
