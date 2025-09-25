@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="7003" name="until now" sample-rate="44100" session-range-is-free="0" id-counter="1255854" rg-counter="2672" name-counter="1" event-counter="4141912" vca-counter="1">
+<Session version="7003" name="until now" sample-rate="44100" session-range-is-free="0" id-counter="1296613" rg-counter="2683" name-counter="1" event-counter="4164530" vca-counter="1">
   <ProgramVersion created-with="Ardour 6.9.0~ds0-1build1" modified-with="Ardour 8.4.0~ds1-2ubuntu8"/>
   <MIDIPorts>
     <Port name="Cue Control in" type="midi" direction="Input"/>
@@ -3670,7 +3670,9 @@ a409600 1
     <CompoundAssociation copy="8304" original="6799"/>
     <CompoundAssociation copy="8315" original="6808"/>
   </CompoundAssociations>
-  <Selection/>
+  <Selection>
+    <StripableAutomationControl stripable="541" control="0" order="2"/>
+  </Selection>
   <Locations>
     <Location id="262" name="session" start="b5760" end="b533760" flags="IsSessionRange" locked="0" timestamp="1709613474" cue="0"/>
     <Location id="1721" name="Loop" start="b867840" end="b929280" flags="IsAutoLoop" locked="0" timestamp="1709621031" cue="0"/>
