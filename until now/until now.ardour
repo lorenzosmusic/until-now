@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="7003" name="until now" sample-rate="44100" session-range-is-free="0" id-counter="1337372" rg-counter="2687" name-counter="1" event-counter="4191183" vca-counter="1">
+<Session version="7003" name="until now" sample-rate="44100" session-range-is-free="0" id-counter="1378131" rg-counter="2691" name-counter="1" event-counter="4200342" vca-counter="1">
   <ProgramVersion created-with="Ardour 6.9.0~ds0-1build1" modified-with="Ardour 8.4.0~ds1-2ubuntu8"/>
   <MIDIPorts>
     <Port name="Cue Control in" type="midi" direction="Input"/>
@@ -9068,8 +9068,8 @@ There are several playlist takes</Comment>
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="145599" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="145599" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="145601" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="145596" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
@@ -9163,8 +9163,8 @@ The version used so far for the new version of the song are in the playlist "Exp
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="145650" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="145650" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="145652" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="145647" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
@@ -9252,8 +9252,8 @@ The version used so far for the new version of the song are in the playlist "Exp
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="145701" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="145701" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="145703" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="145698" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
@@ -9597,8 +9597,8 @@ The version used so far for the new version of the song are in the playlist "Exp
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="145752" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="145752" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="145754" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="145749" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
@@ -9718,8 +9718,8 @@ The version used so far for the new version of the song are in the playlist "Exp
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="145803" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="145803" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="145805" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="145800" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
@@ -9807,8 +9807,8 @@ The version used so far for the new version of the song are in the playlist "Exp
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="145854" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="145854" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="145856" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="145851" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
@@ -9896,8 +9896,8 @@ The version used so far for the new version of the song are in the playlist "Exp
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="145905" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="145905" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="145907" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="145902" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
@@ -9985,8 +9985,8 @@ The version used so far for the new version of the song are in the playlist "Exp
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="145956" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="145956" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="145958" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="145953" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
@@ -75219,10 +75219,6 @@ a409600 1
       <Window name="RPM-245305" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-64-1594" visible="0" x-off="168" y-off="146" x-size="818" y-size="386" custom-ui="1"/>
       <Window name="PM-64-1594" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-541-612" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-541-746" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-541-612" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-541-746" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-538406-538496" visible="0" x-off="551" y-off="0" x-size="495" y-size="250" custom-ui="1"/>
       <Window name="PM-538406-538496" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-1172675-1172720" visible="0" x-off="1238" y-off="14" x-size="391" y-size="241" custom-ui="1"/>
@@ -75237,6 +75233,10 @@ a409600 1
       <Window name="PM-145691-538334" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-145742-813544" visible="0" x-off="1064" y-off="0" x-size="495" y-size="250" custom-ui="1"/>
       <Window name="PM-145742-813544" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-541-612" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-541-746" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-541-612" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-541-746" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-11587-12455" visible="0" x-off="0" y-off="417" x-size="769" y-size="455" custom-ui="1"/>
       <Window name="P-11587-90269" visible="0" x-off="1430" y-off="0" x-size="490" y-size="237" custom-ui="1"/>
       <Window name="PM-11587-12455" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
