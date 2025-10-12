@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="7003" name="until now" sample-rate="44100" session-range-is-free="0" id-counter="1378131" rg-counter="2691" name-counter="1" event-counter="4200342" vca-counter="1">
+<Session version="7003" name="until now" sample-rate="44100" session-range-is-free="0" id-counter="1418890" rg-counter="2692" name-counter="1" event-counter="4208494" vca-counter="1">
   <ProgramVersion created-with="Ardour 6.9.0~ds0-1build1" modified-with="Ardour 8.4.0~ds1-2ubuntu8"/>
   <MIDIPorts>
     <Port name="Cue Control in" type="midi" direction="Input"/>
@@ -9068,8 +9068,8 @@ There are several playlist takes</Comment>
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
-      <Controllable name="mute" id="145599" flags="Toggle,RealTime" value="1"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="145599" flags="Toggle,RealTime" value="0"/>
       <Controllable name="phase" id="145601" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="145596" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
@@ -9163,8 +9163,8 @@ The version used so far for the new version of the song are in the playlist "Exp
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
-      <Controllable name="mute" id="145650" flags="Toggle,RealTime" value="1"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="145650" flags="Toggle,RealTime" value="0"/>
       <Controllable name="phase" id="145652" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="145647" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
@@ -9252,8 +9252,8 @@ The version used so far for the new version of the song are in the playlist "Exp
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
-      <Controllable name="mute" id="145701" flags="Toggle,RealTime" value="1"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="145701" flags="Toggle,RealTime" value="0"/>
       <Controllable name="phase" id="145703" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="145698" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
@@ -9597,8 +9597,8 @@ The version used so far for the new version of the song are in the playlist "Exp
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
-      <Controllable name="mute" id="145752" flags="Toggle,RealTime" value="1"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="145752" flags="Toggle,RealTime" value="0"/>
       <Controllable name="phase" id="145754" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="145749" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
@@ -9718,8 +9718,8 @@ The version used so far for the new version of the song are in the playlist "Exp
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
-      <Controllable name="mute" id="145803" flags="Toggle,RealTime" value="1"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="145803" flags="Toggle,RealTime" value="0"/>
       <Controllable name="phase" id="145805" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="145800" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
@@ -9807,8 +9807,8 @@ The version used so far for the new version of the song are in the playlist "Exp
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
-      <Controllable name="mute" id="145854" flags="Toggle,RealTime" value="1"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="145854" flags="Toggle,RealTime" value="0"/>
       <Controllable name="phase" id="145856" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="145851" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
@@ -9896,8 +9896,8 @@ The version used so far for the new version of the song are in the playlist "Exp
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
-      <Controllable name="mute" id="145905" flags="Toggle,RealTime" value="1"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="145905" flags="Toggle,RealTime" value="0"/>
       <Controllable name="phase" id="145907" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="145902" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
@@ -9985,8 +9985,8 @@ The version used so far for the new version of the song are in the playlist "Exp
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
-      <Controllable name="mute" id="145956" flags="Toggle,RealTime" value="1"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="145956" flags="Toggle,RealTime" value="0"/>
       <Controllable name="phase" id="145958" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="145953" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
