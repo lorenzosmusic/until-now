@@ -1,384 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1757394029" tv-usec="655382" name="region drag">
-    <StatefulDiffCommand obj-id="1131441" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <length from="b2400@b932760" to="b2400@b932520"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131444" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <length from="b1080@b930720" to="b1080@b930480"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131447" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <length from="b600@b929280" to="b600@b929040"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131450" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <length from="b480@b928200" to="b480@b927960"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131453" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <length from="b1440@b925320" to="b1440@b925080"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131456" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <length from="b1680@b920760" to="b1680@b920520"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131459" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <length from="b2400@b917400" to="b2400@b917160"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131462" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <length from="b1200@b913320" to="b1200@b913080"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131465" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <length from="b240@b912120" to="b240@b911880"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131468" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <length from="b1680@b909960" to="b1680@b909720"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131471" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <length from="b1680@b906360" to="b1680@b906120"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131474" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <length from="b2400@b902040" to="b2400@b901800"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131477" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <length from="b1080@b900000" to="b1080@b899760"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131480" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <length from="b600@b898560" to="b600@b898320"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="92" left-frame="11739032" y-origin="2514">
-        <Selection>
-          <Regions>
-            <Region id="1131441"/>
-            <Region id="1131444"/>
-            <Region id="1131447"/>
-            <Region id="1131450"/>
-            <Region id="1131453"/>
-            <Region id="1131456"/>
-            <Region id="1131459"/>
-            <Region id="1131462"/>
-            <Region id="1131465"/>
-            <Region id="1131468"/>
-            <Region id="1131471"/>
-            <Region id="1131474"/>
-            <Region id="1131477"/>
-            <Region id="1131480"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="92" left-frame="11739032" y-origin="2514">
-        <Selection>
-          <Regions>
-            <Region id="1131441"/>
-            <Region id="1131444"/>
-            <Region id="1131447"/>
-            <Region id="1131450"/>
-            <Region id="1131453"/>
-            <Region id="1131456"/>
-            <Region id="1131459"/>
-            <Region id="1131462"/>
-            <Region id="1131465"/>
-            <Region id="1131468"/>
-            <Region id="1131471"/>
-            <Region id="1131474"/>
-            <Region id="1131477"/>
-            <Region id="1131480"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1757394065" tv-usec="914878" name="delete objects">
-    <StatefulDiffCommand obj-id="1131504" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <layering-index from="122" to="108"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1211623" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <layering-index from="123" to="109"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131501" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <layering-index from="121" to="107"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1211669" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <layering-index from="124" to="110"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1211747" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <layering-index from="127" to="113"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1211741" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <layering-index from="125" to="111"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1211744" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <layering-index from="126" to="112"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1211750" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <layering-index from="128" to="114"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131498" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <layering-index from="120" to="106"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131495" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <layering-index from="119" to="105"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131492" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <layering-index from="118" to="104"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131489" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <layering-index from="117" to="103"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1211889" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <layering-index from="129" to="115"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131486" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <layering-index from="116" to="102"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="1131483" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <layering-index from="115" to="101"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="216" type-name="ARDOUR::MidiPlaylist">
-      <Changes>
-        <Regions>
-          <Remove id="1131441"/>
-          <Remove id="1131444"/>
-          <Remove id="1131447"/>
-          <Remove id="1131450"/>
-          <Remove id="1131453"/>
-          <Remove id="1131456"/>
-          <Remove id="1131459"/>
-          <Remove id="1131462"/>
-          <Remove id="1131465"/>
-          <Remove id="1131468"/>
-          <Remove id="1131471"/>
-          <Remove id="1131474"/>
-          <Remove id="1131477"/>
-          <Remove id="1131480"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="736" left-frame="11393480" y-origin="2514">
-        <Selection>
-          <Regions>
-            <Region id="1131441"/>
-            <Region id="1131444"/>
-            <Region id="1131447"/>
-            <Region id="1131450"/>
-            <Region id="1131453"/>
-            <Region id="1131456"/>
-            <Region id="1131459"/>
-            <Region id="1131462"/>
-            <Region id="1131465"/>
-            <Region id="1131468"/>
-            <Region id="1131471"/>
-            <Region id="1131474"/>
-            <Region id="1131477"/>
-            <Region id="1131480"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="736" left-frame="11393480" y-origin="2514">
-        <Selection/>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1757394075" tv-usec="562453" name="region copy">
-    <StatefulDiffCommand obj-id="216" type-name="ARDOUR::MidiPlaylist">
-      <Changes>
-        <Regions>
-          <Add id="1212108"/>
-          <Add id="1212102"/>
-          <Add id="1212105"/>
-          <Add id="1212117"/>
-          <Add id="1212093"/>
-          <Add id="1212099"/>
-          <Add id="1212096"/>
-          <Add id="1212114"/>
-          <Add id="1212090"/>
-          <Add id="1212087"/>
-          <Add id="1212084"/>
-          <Add id="1212081"/>
-          <Add id="1212075"/>
-          <Add id="1212111"/>
-          <Add id="1212078"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="184" left-frame="11329448" y-origin="2514">
-        <Selection>
-          <Regions>
-            <Region id="1211889"/>
-            <Region id="1131483"/>
-            <Region id="1131486"/>
-            <Region id="1131489"/>
-            <Region id="1131492"/>
-            <Region id="1131495"/>
-            <Region id="1131498"/>
-            <Region id="1211750"/>
-            <Region id="1211747"/>
-            <Region id="1211744"/>
-            <Region id="1211741"/>
-            <Region id="1211669"/>
-            <Region id="1211623"/>
-            <Region id="1131501"/>
-            <Region id="1131504"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="184" left-frame="11673620" y-origin="2514">
-        <Selection>
-          <Regions>
-            <Region id="1212075"/>
-            <Region id="1212078"/>
-            <Region id="1212081"/>
-            <Region id="1212084"/>
-            <Region id="1212087"/>
-            <Region id="1212090"/>
-            <Region id="1212093"/>
-            <Region id="1212096"/>
-            <Region id="1212099"/>
-            <Region id="1212102"/>
-            <Region id="1212105"/>
-            <Region id="1212108"/>
-            <Region id="1212111"/>
-            <Region id="1212114"/>
-            <Region id="1212117"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1757394198" tv-usec="543689" name="set loop range from selection">
-    <MementoCommand obj-id="1721" type-name="ARDOUR::Location">
-      <Location id="1721" name="Loop" start="b591360" end="b652800" flags="IsAutoLoop" locked="0" timestamp="1709621031" cue="0"/>
-      <Location id="1721" name="Loop" start="b867840" end="b929280" flags="IsAutoLoop" locked="0" timestamp="1709621031" cue="0"/>
-    </MementoCommand>
-    <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseRange" zoom="1472" left-frame="10853348" y-origin="2188">
-        <Selection>
-          <StripableView id="484269"/>
-          <TimelineRange start="b867840" end="b929280"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseRange" zoom="1472" left-frame="10853348" y-origin="2188">
-        <Selection>
-          <StripableView id="484269"/>
-          <TimelineRange start="b867840" end="b929280"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1757394874" tv-usec="855444" name="capture">
-    <StatefulDiffCommand obj-id="1212189" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <Regions>
-          <Add id="1212215"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1757394916" tv-usec="388883" name="Region start trim">
-    <StatefulDiffCommand obj-id="1212215" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <start from="a0" to="a1774080000"/>
-        <length from="a7964160000@a70963200000" to="a6190080000@a72737280000"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="1472" left-frame="10853348" y-origin="2182">
-        <Selection>
-          <Regions>
-            <Region id="1212215"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="1472" left-frame="10853348" y-origin="2182">
-        <Selection>
-          <Regions>
-            <Region id="1212215"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1757394920" tv-usec="79926" name="Region end trim">
-    <StatefulDiffCommand obj-id="1212215" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <length from="a6190080000@a72737280000" to="a5644800000@a72737280000"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="1472" left-frame="10853348" y-origin="2182">
-        <Selection>
-          <Regions>
-            <Region id="1212215"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="1472" left-frame="10853348" y-origin="2182">
-        <Selection>
-          <Regions>
-            <Region id="1212215"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
   <UndoTransaction tv-sec="1757395326" tv-usec="277589" name="delete objects">
     <StatefulDiffCommand obj-id="1212189" type-name="ARDOUR::AudioPlaylist">
       <Changes>
@@ -915,6 +536,328 @@
       </SelectionMemento>
       <SelectionMemento mouse-mode="MouseObject" zoom="729" left-frame="11051903" y-origin="872">
         <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1792041493" tv-usec="228031" name="move marker">
+    <MementoCommand obj-id="57" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="262" name="session" start="b5760" end="b533760" flags="IsSessionRange" locked="0" timestamp="1709613474" cue="0"/>
+        <Location id="1721" name="Loop" start="b867840" end="b929280" flags="IsAutoLoop" locked="0" timestamp="1709621031" cue="0"/>
+        <Location id="2804" name="range1" start="b5760" end="b192000" flags="IsRangeMarker" locked="0" timestamp="1715131069" cue="0"/>
+        <Location id="54288" name="mark1" start="b99840" end="b99840" flags="IsMark" locked="0" timestamp="1728360625" cue="0"/>
+        <Location id="286833" name="sax extend part" start="b132480" end="b132480" flags="IsMark" locked="0" timestamp="1732424261" cue="0"/>
+        <Location id="331304" name="New version experiment" start="b558720" end="b558720" flags="IsMark" locked="0" timestamp="1752376838" cue="0"/>
+        <Location id="484576" name="mark2" start="b1090560" end="b1090560" flags="IsMark" locked="0" timestamp="1752980797" cue="0"/>
+        <Location id="484580" name="arrangement" start="b1128960" end="b1128960" flags="IsMark" locked="0" timestamp="1752980818" cue="0"/>
+        <Location id="529164" name="new version" start="b558720" end="b558720" flags="IsMark,IsSection" locked="0" timestamp="1752986853" cue="0"/>
+        <Location id="679299" name="mark3" start="b558720" end="b558720" flags="IsMark" locked="0" timestamp="1754368667" cue="0"/>
+        <Location id="867872" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804695" cue="0"/>
+        <Location id="867873" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804705" cue="0"/>
+      </Locations>
+      <Locations>
+        <Location id="262" name="session" start="b529920" end="b552960" flags="IsSessionRange" locked="0" timestamp="1709613474" cue="0"/>
+        <Location id="1721" name="Loop" start="b867840" end="b929280" flags="IsAutoLoop" locked="0" timestamp="1709621031" cue="0"/>
+        <Location id="2804" name="range1" start="b5760" end="b192000" flags="IsRangeMarker" locked="0" timestamp="1715131069" cue="0"/>
+        <Location id="54288" name="mark1" start="b99840" end="b99840" flags="IsMark" locked="0" timestamp="1728360625" cue="0"/>
+        <Location id="286833" name="sax extend part" start="b132480" end="b132480" flags="IsMark" locked="0" timestamp="1732424261" cue="0"/>
+        <Location id="331304" name="New version experiment" start="b558720" end="b558720" flags="IsMark" locked="0" timestamp="1752376838" cue="0"/>
+        <Location id="484576" name="mark2" start="b1090560" end="b1090560" flags="IsMark" locked="0" timestamp="1752980797" cue="0"/>
+        <Location id="484580" name="arrangement" start="b1128960" end="b1128960" flags="IsMark" locked="0" timestamp="1752980818" cue="0"/>
+        <Location id="529164" name="new version" start="b558720" end="b558720" flags="IsMark,IsSection" locked="0" timestamp="1752986853" cue="0"/>
+        <Location id="679299" name="mark3" start="b558720" end="b558720" flags="IsMark" locked="0" timestamp="1754368667" cue="0"/>
+        <Location id="867872" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804695" cue="0"/>
+        <Location id="867873" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804705" cue="0"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="49" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="16452" left-frame="0" y-origin="1108">
+        <Selection>
+          <Marker id="262" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="16452" left-frame="0" y-origin="1108">
+        <Selection>
+          <Marker id="262" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1792041504" tv-usec="174785" name="move marker">
+    <MementoCommand obj-id="57" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="262" name="session" start="b529920" end="b552960" flags="IsSessionRange" locked="0" timestamp="1709613474" cue="0"/>
+        <Location id="1721" name="Loop" start="b867840" end="b929280" flags="IsAutoLoop" locked="0" timestamp="1709621031" cue="0"/>
+        <Location id="2804" name="range1" start="b5760" end="b192000" flags="IsRangeMarker" locked="0" timestamp="1715131069" cue="0"/>
+        <Location id="54288" name="mark1" start="b99840" end="b99840" flags="IsMark" locked="0" timestamp="1728360625" cue="0"/>
+        <Location id="286833" name="sax extend part" start="b132480" end="b132480" flags="IsMark" locked="0" timestamp="1732424261" cue="0"/>
+        <Location id="331304" name="New version experiment" start="b558720" end="b558720" flags="IsMark" locked="0" timestamp="1752376838" cue="0"/>
+        <Location id="484576" name="mark2" start="b1090560" end="b1090560" flags="IsMark" locked="0" timestamp="1752980797" cue="0"/>
+        <Location id="484580" name="arrangement" start="b1128960" end="b1128960" flags="IsMark" locked="0" timestamp="1752980818" cue="0"/>
+        <Location id="529164" name="new version" start="b558720" end="b558720" flags="IsMark,IsSection" locked="0" timestamp="1752986853" cue="0"/>
+        <Location id="679299" name="mark3" start="b558720" end="b558720" flags="IsMark" locked="0" timestamp="1754368667" cue="0"/>
+        <Location id="867872" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804695" cue="0"/>
+        <Location id="867873" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804705" cue="0"/>
+      </Locations>
+      <Locations>
+        <Location id="262" name="session" start="b529920" end="b1090560" flags="IsSessionRange" locked="0" timestamp="1709613474" cue="0"/>
+        <Location id="1721" name="Loop" start="b867840" end="b929280" flags="IsAutoLoop" locked="0" timestamp="1709621031" cue="0"/>
+        <Location id="2804" name="range1" start="b5760" end="b192000" flags="IsRangeMarker" locked="0" timestamp="1715131069" cue="0"/>
+        <Location id="54288" name="mark1" start="b99840" end="b99840" flags="IsMark" locked="0" timestamp="1728360625" cue="0"/>
+        <Location id="286833" name="sax extend part" start="b132480" end="b132480" flags="IsMark" locked="0" timestamp="1732424261" cue="0"/>
+        <Location id="331304" name="New version experiment" start="b558720" end="b558720" flags="IsMark" locked="0" timestamp="1752376838" cue="0"/>
+        <Location id="484576" name="mark2" start="b1090560" end="b1090560" flags="IsMark" locked="0" timestamp="1752980797" cue="0"/>
+        <Location id="484580" name="arrangement" start="b1128960" end="b1128960" flags="IsMark" locked="0" timestamp="1752980818" cue="0"/>
+        <Location id="529164" name="new version" start="b558720" end="b558720" flags="IsMark,IsSection" locked="0" timestamp="1752986853" cue="0"/>
+        <Location id="679299" name="mark3" start="b558720" end="b558720" flags="IsMark" locked="0" timestamp="1754368667" cue="0"/>
+        <Location id="867872" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804695" cue="0"/>
+        <Location id="867873" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804705" cue="0"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="49" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2056" left-frame="12987288" y-origin="1108">
+        <Selection>
+          <Marker id="262" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2056" left-frame="12987288" y-origin="1108">
+        <Selection>
+          <Marker id="262" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1792041512" tv-usec="15982" name="move marker">
+    <MementoCommand obj-id="57" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="262" name="session" start="b529920" end="b1090560" flags="IsSessionRange" locked="0" timestamp="1709613474" cue="0"/>
+        <Location id="1721" name="Loop" start="b867840" end="b929280" flags="IsAutoLoop" locked="0" timestamp="1709621031" cue="0"/>
+        <Location id="2804" name="range1" start="b5760" end="b192000" flags="IsRangeMarker" locked="0" timestamp="1715131069" cue="0"/>
+        <Location id="54288" name="mark1" start="b99840" end="b99840" flags="IsMark" locked="0" timestamp="1728360625" cue="0"/>
+        <Location id="286833" name="sax extend part" start="b132480" end="b132480" flags="IsMark" locked="0" timestamp="1732424261" cue="0"/>
+        <Location id="331304" name="New version experiment" start="b558720" end="b558720" flags="IsMark" locked="0" timestamp="1752376838" cue="0"/>
+        <Location id="484576" name="mark2" start="b1090560" end="b1090560" flags="IsMark" locked="0" timestamp="1752980797" cue="0"/>
+        <Location id="484580" name="arrangement" start="b1128960" end="b1128960" flags="IsMark" locked="0" timestamp="1752980818" cue="0"/>
+        <Location id="529164" name="new version" start="b558720" end="b558720" flags="IsMark,IsSection" locked="0" timestamp="1752986853" cue="0"/>
+        <Location id="679299" name="mark3" start="b558720" end="b558720" flags="IsMark" locked="0" timestamp="1754368667" cue="0"/>
+        <Location id="867872" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804695" cue="0"/>
+        <Location id="867873" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804705" cue="0"/>
+      </Locations>
+      <Locations>
+        <Location id="262" name="session" start="b558720" end="b1090560" flags="IsSessionRange" locked="0" timestamp="1709613474" cue="0"/>
+        <Location id="1721" name="Loop" start="b867840" end="b929280" flags="IsAutoLoop" locked="0" timestamp="1709621031" cue="0"/>
+        <Location id="2804" name="range1" start="b5760" end="b192000" flags="IsRangeMarker" locked="0" timestamp="1715131069" cue="0"/>
+        <Location id="54288" name="mark1" start="b99840" end="b99840" flags="IsMark" locked="0" timestamp="1728360625" cue="0"/>
+        <Location id="286833" name="sax extend part" start="b132480" end="b132480" flags="IsMark" locked="0" timestamp="1732424261" cue="0"/>
+        <Location id="331304" name="New version experiment" start="b558720" end="b558720" flags="IsMark" locked="0" timestamp="1752376838" cue="0"/>
+        <Location id="484576" name="mark2" start="b1090560" end="b1090560" flags="IsMark" locked="0" timestamp="1752980797" cue="0"/>
+        <Location id="484580" name="arrangement" start="b1128960" end="b1128960" flags="IsMark" locked="0" timestamp="1752980818" cue="0"/>
+        <Location id="529164" name="new version" start="b558720" end="b558720" flags="IsMark,IsSection" locked="0" timestamp="1752986853" cue="0"/>
+        <Location id="679299" name="mark3" start="b558720" end="b558720" flags="IsMark" locked="0" timestamp="1754368667" cue="0"/>
+        <Location id="867872" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804695" cue="0"/>
+        <Location id="867873" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804705" cue="0"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="49" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2056" left-frame="6284728" y-origin="872">
+        <Selection>
+          <Marker id="262" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2056" left-frame="6284728" y-origin="872">
+        <Selection>
+          <Marker id="262" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1792041526" tv-usec="293259" name="remove marker">
+    <MementoCommand obj-id="57" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="262" name="session" start="b558720" end="b1090560" flags="IsSessionRange" locked="0" timestamp="1709613474" cue="0"/>
+        <Location id="1721" name="Loop" start="b867840" end="b929280" flags="IsAutoLoop" locked="0" timestamp="1709621031" cue="0"/>
+        <Location id="2804" name="range1" start="b5760" end="b192000" flags="IsRangeMarker" locked="0" timestamp="1715131069" cue="0"/>
+        <Location id="54288" name="mark1" start="b99840" end="b99840" flags="IsMark" locked="0" timestamp="1728360625" cue="0"/>
+        <Location id="286833" name="sax extend part" start="b132480" end="b132480" flags="IsMark" locked="0" timestamp="1732424261" cue="0"/>
+        <Location id="331304" name="New version experiment" start="b558720" end="b558720" flags="IsMark" locked="0" timestamp="1752376838" cue="0"/>
+        <Location id="484576" name="mark2" start="b1090560" end="b1090560" flags="IsMark" locked="0" timestamp="1752980797" cue="0"/>
+        <Location id="484580" name="arrangement" start="b1128960" end="b1128960" flags="IsMark" locked="0" timestamp="1752980818" cue="0"/>
+        <Location id="529164" name="new version" start="b558720" end="b558720" flags="IsMark,IsSection" locked="0" timestamp="1752986853" cue="0"/>
+        <Location id="679299" name="mark3" start="b558720" end="b558720" flags="IsMark" locked="0" timestamp="1754368667" cue="0"/>
+        <Location id="867872" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804695" cue="0"/>
+        <Location id="867873" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804705" cue="0"/>
+      </Locations>
+      <Locations>
+        <Location id="262" name="session" start="b558720" end="b1090560" flags="IsSessionRange" locked="0" timestamp="1709613474" cue="0"/>
+        <Location id="1721" name="Loop" start="b867840" end="b929280" flags="IsAutoLoop" locked="0" timestamp="1709621031" cue="0"/>
+        <Location id="2804" name="range1" start="b5760" end="b192000" flags="IsRangeMarker" locked="0" timestamp="1715131069" cue="0"/>
+        <Location id="54288" name="mark1" start="b99840" end="b99840" flags="IsMark" locked="0" timestamp="1728360625" cue="0"/>
+        <Location id="286833" name="sax extend part" start="b132480" end="b132480" flags="IsMark" locked="0" timestamp="1732424261" cue="0"/>
+        <Location id="331304" name="New version experiment" start="b558720" end="b558720" flags="IsMark" locked="0" timestamp="1752376838" cue="0"/>
+        <Location id="484576" name="mark2" start="b1090560" end="b1090560" flags="IsMark" locked="0" timestamp="1752980797" cue="0"/>
+        <Location id="484580" name="arrangement" start="b1128960" end="b1128960" flags="IsMark" locked="0" timestamp="1752980818" cue="0"/>
+        <Location id="529164" name="new version" start="b558720" end="b558720" flags="IsMark,IsSection" locked="0" timestamp="1752986853" cue="0"/>
+        <Location id="867872" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804695" cue="0"/>
+        <Location id="867873" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804705" cue="0"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="49" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2056" left-frame="6284728" y-origin="872">
+        <Selection>
+          <Marker id="679299" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2056" left-frame="6284728" y-origin="872">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1792041530" tv-usec="201314" name="remove marker">
+    <MementoCommand obj-id="57" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="262" name="session" start="b558720" end="b1090560" flags="IsSessionRange" locked="0" timestamp="1709613474" cue="0"/>
+        <Location id="1721" name="Loop" start="b867840" end="b929280" flags="IsAutoLoop" locked="0" timestamp="1709621031" cue="0"/>
+        <Location id="2804" name="range1" start="b5760" end="b192000" flags="IsRangeMarker" locked="0" timestamp="1715131069" cue="0"/>
+        <Location id="54288" name="mark1" start="b99840" end="b99840" flags="IsMark" locked="0" timestamp="1728360625" cue="0"/>
+        <Location id="286833" name="sax extend part" start="b132480" end="b132480" flags="IsMark" locked="0" timestamp="1732424261" cue="0"/>
+        <Location id="331304" name="New version experiment" start="b558720" end="b558720" flags="IsMark" locked="0" timestamp="1752376838" cue="0"/>
+        <Location id="484576" name="mark2" start="b1090560" end="b1090560" flags="IsMark" locked="0" timestamp="1752980797" cue="0"/>
+        <Location id="484580" name="arrangement" start="b1128960" end="b1128960" flags="IsMark" locked="0" timestamp="1752980818" cue="0"/>
+        <Location id="529164" name="new version" start="b558720" end="b558720" flags="IsMark,IsSection" locked="0" timestamp="1752986853" cue="0"/>
+        <Location id="867872" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804695" cue="0"/>
+        <Location id="867873" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804705" cue="0"/>
+      </Locations>
+      <Locations>
+        <Location id="262" name="session" start="b558720" end="b1090560" flags="IsSessionRange" locked="0" timestamp="1709613474" cue="0"/>
+        <Location id="1721" name="Loop" start="b867840" end="b929280" flags="IsAutoLoop" locked="0" timestamp="1709621031" cue="0"/>
+        <Location id="2804" name="range1" start="b5760" end="b192000" flags="IsRangeMarker" locked="0" timestamp="1715131069" cue="0"/>
+        <Location id="54288" name="mark1" start="b99840" end="b99840" flags="IsMark" locked="0" timestamp="1728360625" cue="0"/>
+        <Location id="286833" name="sax extend part" start="b132480" end="b132480" flags="IsMark" locked="0" timestamp="1732424261" cue="0"/>
+        <Location id="484576" name="mark2" start="b1090560" end="b1090560" flags="IsMark" locked="0" timestamp="1752980797" cue="0"/>
+        <Location id="484580" name="arrangement" start="b1128960" end="b1128960" flags="IsMark" locked="0" timestamp="1752980818" cue="0"/>
+        <Location id="529164" name="new version" start="b558720" end="b558720" flags="IsMark,IsSection" locked="0" timestamp="1752986853" cue="0"/>
+        <Location id="867872" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804695" cue="0"/>
+        <Location id="867873" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804705" cue="0"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="49" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2056" left-frame="6284728" y-origin="872">
+        <Selection/>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2056" left-frame="6284728" y-origin="872">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1792041546" tv-usec="44720" name="remove marker">
+    <MementoCommand obj-id="57" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="262" name="session" start="b558720" end="b1090560" flags="IsSessionRange" locked="0" timestamp="1709613474" cue="0"/>
+        <Location id="1721" name="Loop" start="b867840" end="b929280" flags="IsAutoLoop" locked="0" timestamp="1709621031" cue="0"/>
+        <Location id="2804" name="range1" start="b5760" end="b192000" flags="IsRangeMarker" locked="0" timestamp="1715131069" cue="0"/>
+        <Location id="54288" name="mark1" start="b99840" end="b99840" flags="IsMark" locked="0" timestamp="1728360625" cue="0"/>
+        <Location id="286833" name="sax extend part" start="b132480" end="b132480" flags="IsMark" locked="0" timestamp="1732424261" cue="0"/>
+        <Location id="484576" name="mark2" start="b1090560" end="b1090560" flags="IsMark" locked="0" timestamp="1752980797" cue="0"/>
+        <Location id="484580" name="arrangement" start="b1128960" end="b1128960" flags="IsMark" locked="0" timestamp="1752980818" cue="0"/>
+        <Location id="529164" name="new version" start="b558720" end="b558720" flags="IsMark,IsSection" locked="0" timestamp="1752986853" cue="0"/>
+        <Location id="867872" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804695" cue="0"/>
+        <Location id="867873" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804705" cue="0"/>
+      </Locations>
+      <Locations>
+        <Location id="262" name="session" start="b558720" end="b1090560" flags="IsSessionRange" locked="0" timestamp="1709613474" cue="0"/>
+        <Location id="1721" name="Loop" start="b867840" end="b929280" flags="IsAutoLoop" locked="0" timestamp="1709621031" cue="0"/>
+        <Location id="2804" name="range1" start="b5760" end="b192000" flags="IsRangeMarker" locked="0" timestamp="1715131069" cue="0"/>
+        <Location id="54288" name="mark1" start="b99840" end="b99840" flags="IsMark" locked="0" timestamp="1728360625" cue="0"/>
+        <Location id="286833" name="sax extend part" start="b132480" end="b132480" flags="IsMark" locked="0" timestamp="1732424261" cue="0"/>
+        <Location id="484580" name="arrangement" start="b1128960" end="b1128960" flags="IsMark" locked="0" timestamp="1752980818" cue="0"/>
+        <Location id="529164" name="new version" start="b558720" end="b558720" flags="IsMark,IsSection" locked="0" timestamp="1752986853" cue="0"/>
+        <Location id="867872" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804695" cue="0"/>
+        <Location id="867873" name="mark3-range" start="b558720" end="b1090560" flags="IsRangeMarker" locked="0" timestamp="1754804705" cue="0"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="49" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="8224" left-frame="3932161" y-origin="872">
+        <Selection/>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="8224" left-frame="3932161" y-origin="872">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1792560687" tv-usec="250106" name="automation range move">
+    <MementoUndoCommand obj-id="678548" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="envelope" id="678548" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
+        <events>a0 1.0000027517625922
+a544320000 1.0000028338151186
+a645120000 1.0000029338151186
+a806400000 1.0000031065423931
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj-id="678542" type-name="ARDOUR::AudioRegion">
+      <Region name="sax-3.190" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a21934080000" length="a806400000@a69672960000" sync-position="a21934080000" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="99" tags="" contents="0" rgroup="0" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="678542" type="audio" first-edit="nothing" source-0="133732" master-source-0="133732" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="678548" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
+            <events>a0 1.0000027517625922
+a544320000 1.0000028338151186
+a645120000 1.0000029338151186
+a806400000 1.0000031065423931
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="678543" interpolation-style="Curved" time-domain="AudioTime" state="Off">
+            <events>a0 1.0000000116860974e-07
+a409600 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="678544" interpolation-style="Curved" time-domain="AudioTime" state="Off">
+            <events>a0 1
+a409600 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="678545" interpolation-style="Curved" time-domain="AudioTime" state="Off">
+            <events>a0 1
+a409600 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="678546" interpolation-style="Curved" time-domain="AudioTime" state="Off">
+            <events>a0 1.0000000116860974e-07
+a409600 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+    </MementoRedoCommand>
+    <MementoRedoCommand obj-id="678548" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="envelope" id="678548" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
+        <events>a0 0.66443157196044922
+a544320000 0.66443175077438354
+a645120000 1.0000029338151186
+a806400000 1.0000031065423931
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+    <MementoCommand obj-id="49" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="514" left-frame="10515180" y-origin="1468">
+        <Selection>
+          <ControlPoint type="region" region-id="678542" view-index="0"/>
+          <ControlPoint type="region" region-id="678542" view-index="1"/>
+          <Marker id="867873" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="514" left-frame="10515180" y-origin="1468">
+        <Selection>
+          <ControlPoint type="region" region-id="678542" view-index="0"/>
+          <ControlPoint type="region" region-id="678542" view-index="1"/>
+          <Marker id="867873" start="1"/>
+        </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
